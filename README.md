@@ -1,6 +1,6 @@
 # Used-car-prediction
 
-<img width="782" height="562" alt="image" src="https://github.com/user-attachments/assets/9d106690-0c84-4280-85fe-6e070621915d" /> 
+https://barbadostoday.bb/wp-content/uploads/2020/07/img_2183.jpg 
 
 # 🚗 Used Car Price Prediction — DSN Hackathon Project
 
@@ -50,4 +50,4 @@ We achieved an RMSE of **$1,710** on validation using **Random Forest with GridS
 - My team / mentor (if applicable)
 
 ## 📄 License
-MIT © 2025 [Your Name]
+MIT © 2025 [Hammed Olaitan AJIGBOTOSHO]
